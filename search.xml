@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/2022/04/11/Hexo%20%E5%91%BD%E4%BB%A4/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>膜片钳-开启细胞电生理的钥匙</title>
+    <url>/2022/04/12/%E8%86%9C%E7%89%87%E9%92%B3/</url>
+    <content><![CDATA[<p>电生理学是研究电兴奋细胞（通常是神经元）及其网络，以及越来越多的非兴奋细胞的功能和功能障碍的重要工具。正确应用电生理技术需要了解细胞的物理和化学特性，以及这些特性如何影响离子在细胞膜上的传输。20 世纪 50 年代早期， Alan Hodgkin 和 Andrew Huxley 的关键电生理实验首次完整描述了动作电位的离子机制，他们使用粗糙的玻璃电极测量了鱿鱼巨大轴突的膜电位1。这一进展于 1963 年获得诺贝尔生理学和医学奖。进一步的发展包括使用非常精细的玻璃电极刺穿细胞膜并进行细胞内膜电位变化的记录。然而，这些“锋利”的电极在很大程度上不适合记录离子通道的活动，因为电极必须同时测量膜电位和瞬时注入电流。 Bert Sakmann 和 Erwin Neher 克服了这个问题，他们使用相对大口径的电极与细胞表面形成紧密的封接，而不是穿透细胞膜。这种方法最初被称为“细胞外膜片钳”，这种方法测量到了单个或数个离子通道上的电流2，3。 Sakmann 和 Neher 于 1991 年获得诺贝尔生理学和医学奖。该方法已被进一步发展为多种不同的记录方法，可以高分辨率研究细胞膜中的全细胞离子通道电流、细胞贴附或分离的膜片中的单个离子通道电流，如下文所述。<br>细胞膜及其电特性<br>细胞膜严格控制细胞外液和细胞内液的渗透压，这使得钠（Na+）、钾（K+）、氯（Cl-）以及钙（Ca2+）等特定离子的浓度梯度产生很大差异。细胞膜本质上是两种导电溶液之间的一层薄薄的绝缘层，它将这些离子的不均匀分布分开，并使细胞内和细胞外溶液的电荷产生差异。由能斯特方程测得的单个离子的平衡电位，在细胞膜上产生一个电势，并以电压的形式测得，因此细胞内部比外部电势低得多。由于细胞膜可以分离和储存电荷，因此它在电气上就像一个电容器，充电和放电需要时间，因此可以减缓膜电位的变化。</p>
+<p>能斯特方程</p>
+<p>尽管细胞膜对带电粒子是不可渗透的，但离子还是有可能通过专门的离子通道和转运体穿过细胞膜。由于电压门控离子通道的构象变化而产生的电荷运动允许离子流动，这种运动形成了神经元电活动的基础，并被测量为电流。电流的大小和流量由驱动力（电压）和阻碍离子通过细胞膜的阻力（电阻）决定。因此，通过细胞膜（相当于一个电阻）的电流（ I ）与通过它的电势（ V ）成正比，根据欧姆定律与电阻（ R ）成反比：</p>
+<p>欧姆定律</p>
+<p>通过细胞膜的电位和电流可通过多种直接（细胞内）或间接（细胞外）电生理方法测量4；在这里，我们重点介绍膜片钳技术作为主要的细胞内方法。</p>
+]]></content>
+  </entry>
+</search>
