@@ -6,7 +6,7 @@
   <link href="http://gebio.top/atom.xml" rel="self"/>
   
   <link href="http://gebio.top/"/>
-  <updated>2022-04-18T14:57:26.960Z</updated>
+  <updated>2022-04-20T06:09:45.429Z</updated>
   <id>http://gebio.top/</id>
   
   <author>
@@ -15,6 +15,67 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>AXON 700B使用指南</title>
+    <link href="http://gebio.top/2022/04/20/AXON%20700B%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/"/>
+    <id>http://gebio.top/2022/04/20/AXON%20700B%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/</id>
+    <published>2022-04-20T06:00:00.000Z</published>
+    <updated>2022-04-20T06:09:45.429Z</updated>
+    
+    <content type="html"><![CDATA[<object data="/AXON 700B使用指南/MultiClamp 700B使用说明-刘振伟-2012.pdf"  type="application/pdf" width="877px" height="100%">]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;object data=&quot;/AXON 700B使用指南/MultiClamp 700B使用说明-刘振伟-2012.pdf&quot;  type=&quot;application/pdf&quot; width=&quot;877px&quot; height=&quot;100%&quot;&gt;</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>第一篇博文的挥手礼</title>
+    <link href="http://gebio.top/2022/04/20/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E6%96%87%E7%9A%84%E6%8C%A5%E6%89%8B%E7%A4%BC/"/>
+    <id>http://gebio.top/2022/04/20/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E6%96%87%E7%9A%84%E6%8C%A5%E6%89%8B%E7%A4%BC/</id>
+    <published>2022-04-20T04:50:06.000Z</published>
+    <updated>2022-04-20T06:18:00.782Z</updated>
+    
+    <content type="html"><![CDATA[<p>小宅吐糟的秘密武器</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;小宅吐糟的秘密武器&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://gebio.top/2022/04/19/Hexo%20%E5%91%BD%E4%BB%A4/"/>
+    <id>http://gebio.top/2022/04/19/Hexo%20%E5%91%BD%E4%BB%A4/</id>
+    <published>2022-04-19T13:41:45.641Z</published>
+    <updated>2022-04-11T11:54:33.568Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>膜片钳-开启细胞电生理的钥匙</title>
@@ -29,26 +90,6 @@
       
       
     <summary type="html">&lt;p&gt;电生理学是研究电兴奋细胞（通常是神经元）及其网络，以及越来越多的非兴奋细胞的功能和功能障碍的重要工具。正确应用电生理技术需要了解细胞的物理和化学特性，以及这些特性如何影响离子在细胞膜上的传输。20 世纪 50 年代早期， Alan Hodgkin 和 Andrew Huxl</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://gebio.top/2022/04/11/Hexo%20%E5%91%BD%E4%BB%A4/"/>
-    <id>http://gebio.top/2022/04/11/Hexo%20%E5%91%BD%E4%BB%A4/</id>
-    <published>2022-04-11T11:54:33.568Z</published>
-    <updated>2022-04-11T11:54:33.568Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
       
     
     
