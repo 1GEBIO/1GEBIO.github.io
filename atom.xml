@@ -6,7 +6,7 @@
   <link href="http://gebio.top/atom.xml" rel="self"/>
   
   <link href="http://gebio.top/"/>
-  <updated>2022-04-20T06:09:45.429Z</updated>
+  <updated>2022-06-02T07:49:59.060Z</updated>
   <id>http://gebio.top/</id>
   
   <author>
@@ -15,6 +15,46 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://gebio.top/2022/06/02/%E7%AC%AC%E5%85%AB%E5%B1%8A%E8%86%9C%E7%89%87%E9%92%B3%E6%8A%80%E6%9C%AF%E5%9F%B9%E8%AE%AD%E7%8F%AD%E8%AE%B2%E4%B9%89/"/>
+    <id>http://gebio.top/2022/06/02/%E7%AC%AC%E5%85%AB%E5%B1%8A%E8%86%9C%E7%89%87%E9%92%B3%E6%8A%80%E6%9C%AF%E5%9F%B9%E8%AE%AD%E7%8F%AD%E8%AE%B2%E4%B9%89/</id>
+    <published>2022-06-02T07:46:24.621Z</published>
+    <updated>2022-06-02T07:49:59.060Z</updated>
+    
+    <content type="html"><![CDATA[<div class="row">    <embed src="第八届膜片钳技术培训班讲义.pdf" width="100%" height="550" type="application/pdf"></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">
+
+	&lt;div class=&quot;row&quot;&gt;
+    &lt;embed src=&quot;第八届膜片钳技术培训班讲义.pdf&quot; width=&quot;100%&quot; height=&quot;550&quot; type=&quot;application/pdf&quot;&gt;
+	&lt;/div&gt;
+
+
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>膜片钳-开启细胞电生理的钥匙</title>
+    <link href="http://gebio.top/2022/06/01/Nature%20method-20220511/"/>
+    <id>http://gebio.top/2022/06/01/Nature%20method-20220511/</id>
+    <published>2022-06-01T00:30:42.000Z</published>
+    <updated>2022-06-01T01:02:27.744Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>AXON 700B使用指南</title>
@@ -29,27 +69,6 @@
       
       
     <summary type="html">&lt;object data=&quot;/AXON 700B使用指南/MultiClamp 700B使用说明-刘振伟-2012.pdf&quot; type=&quot;application/pdf&quot; width=&quot;877px&quot; height=&quot;100%&quot;&gt;&lt;/object&gt;</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>700B连接方式实物图</title>
-    <link href="http://gebio.top/2022/04/20/200B%E8%BF%9E%E6%8E%A5%E6%96%B9%E5%BC%8F%E5%AE%9E%E7%89%A9%E5%9B%BE/"/>
-    <id>http://gebio.top/2022/04/20/200B%E8%BF%9E%E6%8E%A5%E6%96%B9%E5%BC%8F%E5%AE%9E%E7%89%A9%E5%9B%BE/</id>
-    <published>2022-04-20T06:00:00.000Z</published>
-    <updated>2022-04-20T07:03:31.766Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="/700B%E8%BF%9E%E6%8E%A5%E6%96%B9%E5%BC%8F%E5%AE%9E%E7%89%A9%E5%9B%BE.jpg" alt="700B连接方式实物图"></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;/700B%E8%BF%9E%E6%8E%A5%E6%96%B9%E5%BC%8F%E5%AE%9E%E7%89%A9%E5%9B%BE.jpg&quot; alt=&quot;700B连接方式实物图&quot;&gt;&lt;/p&gt;
-</summary>
       
     
     
