@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>AXON 700B使用指南</title>
+    <url>/2022/04/20/AXON%20700B%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/</url>
+    <content><![CDATA[<object data="/AXON 700B使用指南/MultiClamp 700B使用说明-刘振伟-2012.pdf" type="application/pdf" width="877px" height="100%"></object>]]></content>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2022/04/19/Hexo%20%E5%91%BD%E4%BB%A4/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>第一篇博文的挥手礼</title>
+    <url>/2022/04/20/%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E6%96%87%E7%9A%84%E6%8C%A5%E6%89%8B%E7%A4%BC/</url>
+    <content><![CDATA[<p>小宅吐糟的秘密武器</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>膜片钳-开启细胞电生理的钥匙</title>
+    <url>/2022/04/12/%E8%86%9C%E7%89%87%E9%92%B3/</url>
+    <content><![CDATA[<p>膜片钳技术是在电压钳技术基础上发展起来的，电压钳是利用负反馈技术将膜电位在空间和时间上固定于某一测定值，以研究动作电位产生过程中膜的离子通透性与膜电位之间的依从关系。但电压钳只能研究一个细胞上众多通道的综合活动规律，而无法反映单个通道的活动特点，同时通过细胞内微电极引导记录的离子通道电流其背景噪声太大。</p>
+<p>膜片钳技术的优势是可利用负反馈电子线路，将微电极尖端吸附的1μm2至几个平方微米细胞膜的电位固定在一定水平上，对通过通道的微小离子电流作动态或静态的观察。因微电极尖端与细胞膜表面进行了高阻抗封接，阻值可达到10～100GΩ，近似电绝缘，从而可大大减少记录时的背景噪音，使矩形的单通道信号得以分辨出来。</p>
+<p>用场效应管运算放大器构成的I-V转换器（converter），即膜片钳放大器的前级探头（head stage）是测量回路的核心部分。场效应管运算放大器的正负输入端子为等电位，向正输入端子施加指令电位（command voltage，VcMD）时，经过短路负端子可以使膜片等电位，达到电位钳制的目的。当膜片微电极尖端与膜片之间形成10GΩ(1010Ω)以上封接时，其间的分流电流达到最小，横跨膜片的电流（I）可100％作为来自膜片电极的记录电流（Ip）而被测量出来。</p>
+<p>膜片钳使用的基本方法是，把经过加热抛光的玻璃微电极在液压推进器的操纵下，与清洁处理过的细胞膜形成高阻抗封接，导致电极内膜片与电极外的膜在电学上和化学上隔离起来，由于电性能隔离与微电极的相对低电阻（1～5MΩ），只要对微电极施以电压就能对膜片进行钳制，从微电极引出的微小离子电流通过高分辨、低噪声、高保真的电流-电压转换放大器输送至电子计算机进行分析处理。</p>
+<p>膜片钳技术实现的关键是建立高阻抗封接，并能通过特定的记录 仪器 反映这些变化，因而，膜片钳实验室除了一般电生理实验所需的 仪器 外，还特需防震工作台、屏蔽罩、膜片钳放大器、三维液压操纵器、 倒置显微镜 、数据采集卡、数据记录和分析系统等。</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>第八届膜片钳技术培训班讲义</title>
+    <url>/2022/06/02/%E7%AC%AC%E5%85%AB%E5%B1%8A%E8%86%9C%E7%89%87%E9%92%B3%E6%8A%80%E6%9C%AF%E5%9F%B9%E8%AE%AD%E7%8F%AD%E8%AE%B2%E4%B9%89/</url>
+    <content><![CDATA[
+
+	<div class="row">
+    <embed src="第八届膜片钳技术培训班讲义.pdf" width="100%" height="550" type="application/pdf">
+	</div>
+
+
+]]></content>
+  </entry>
+  <entry>
+    <title>第九届膜片钳技术培训班讲义</title>
+    <url>/2022/06/02/%E7%AC%AC%E4%B9%9D%E5%B1%8A%E8%86%9C%E7%89%87%E9%92%B3%E6%8A%80%E6%9C%AF%E5%9F%B9%E8%AE%AD%E7%8F%AD%E8%AE%B2%E4%B9%89/</url>
+    <content><![CDATA[
+
+	<div class="row">
+    <embed src="第九届膜片钳技术培训班讲义.pdf" width="100%" height="550" type="application/pdf">
+	</div>
+
+
+]]></content>
+  </entry>
+  <entry>
+    <title>第十五届膜片钳技术培训班讲义</title>
+    <url>/2022/06/02/%E7%AC%AC%E5%8D%81%E4%BA%94%E5%B1%8A%E8%86%9C%E7%89%87%E9%92%B3%E6%8A%80%E6%9C%AF%E5%9F%B9%E8%AE%AD%E7%8F%AD%E8%AE%B2%E4%B9%89/</url>
+    <content><![CDATA[
+
+	<div class="row">
+    <embed src="第十五届膜片钳技术培训班讲义.pdf" width="100%" height="550" type="application/pdf">
+	</div>
+
+
+]]></content>
+  </entry>
+  <entry>
+    <title>第十二届膜片钳技术培训班讲义</title>
+    <url>/2022/06/02/%E7%AC%AC%E5%8D%81%E4%BA%8C%E5%B1%8A%E8%86%9C%E7%89%87%E9%92%B3%E6%8A%80%E6%9C%AF%E5%9F%B9%E8%AE%AD%E7%8F%AD%E8%AE%B2%E4%B9%89/</url>
+    <content><![CDATA[
+
+	<div class="row">
+    <embed src="第十二届膜片钳技术培训班讲义.pdf" width="100%" height="550" type="application/pdf">
+	</div>
+
+
+]]></content>
+  </entry>
+  <entry>
+    <title>第十届膜片钳技术培训班讲义</title>
+    <url>/2022/06/02/%E7%AC%AC%E5%8D%81%E5%B1%8A%E8%86%9C%E7%89%87%E9%92%B3%E6%8A%80%E6%9C%AF%E5%9F%B9%E8%AE%AD%E7%8F%AD%E8%AE%B2%E4%B9%89/</url>
+    <content><![CDATA[
+
+	<div class="row">
+    <embed src="第十届膜片钳技术培训班讲义.pdf" width="100%" height="550" type="application/pdf">
+	</div>
+
+
+]]></content>
+  </entry>
+  <entry>
+    <title>700B全细胞膜片钳记录步骤</title>
+    <url>/2022/04/20/700B%E5%85%A8%E7%BB%86%E8%83%9E%E8%86%9C%E7%89%87%E9%92%B3%E8%AE%B0%E5%BD%95%E6%AD%A5%E9%AA%A4/</url>
+    <content><![CDATA[<p><strong>700B全细胞膜片钳记录步骤</strong></p>
+<p><strong>1. 准备封接</strong> </p>
+<p>（1）打开 Clampex 的 Membrane Test，选 Bath，设置 Analog OUT&#x3D;#0，Pulse&#x3D;5 mV，Holding&#x3D;0 mV。 点击“ 开始”按钮。 </p>
+<p>（2）在玻璃微电极内维持一定的正压，用微操纵器使玻璃微电极进入浴液，在 Membrane Test 中出现测试脉冲电流方波，可看到电极电阻 Rp 大小。若 Rp 不符合要求，需先行修改玻璃电极拉制参数。 </p>
+<p>（3）在 Commander 软件面板，用 Auto 调节 Pipette Offset，使电流方波基线为 0。若基线调节不到0，需先行查找原因并处理。 </p>
+<p><strong>2. 封接</strong> </p>
+<p>（1）使电极接触细胞。当电极接触细胞时，测试脉冲幅度出现下降，此时，撤除电极内的正压。 </p>
+<p>（2）轻轻吸吮以形成封接。一般要求封接电阻达到 1 GΩ 及以上。封接形成后，测试脉冲消失，出现电极电容瞬变值。在 Membrane Test 中，选 Patch，设 Holding&#x3D;细胞的静息膜电位。 </p>
+<p>（3）补偿电极电容：用 Cp Fast 和 Cp Slow 对电极电容进行补偿。 </p>
+<p><strong>3. 破膜</strong> </p>
+<p>（1）进一步轻轻地持续或短促吸吮，或用 ZAP 电击，或在持续吸允时用 ZAP 电击来破膜。 </p>
+<p>（2）破膜后，缓慢撤除电极内的负压。在 Membrane Test 中，选 Cell，设 Holding&#x3D;细胞的静息膜电位。 </p>
+<p>（3）破膜成功的标志如下：（a）出现膜电容的充放电反应；（b）将 MODE 置于 I＝0 时，V（mV）显示出细胞静息膜电位；（c）Irms 数值增加。 </p>
+<p>（4）若要形成外面向外的单通道记录模式，则应缓慢地上提玻璃微电极，封接处附近的细胞膜会从细胞上脱离下来并自动融合。 </p>
+<p>（5）进行膜电容补偿：选上 Whole Cell，用 Auto 对膜电容进行补偿，必要时用手工进行细微调节。 </p>
+<p>（6）进行串联电阻补偿：选上 Rs Compensation 和 Disable if oscillation detected（或 Reduce if oscillation detected），增大 Prediction 和 Compensation 对串联电阻进行补偿。 </p>
+<p><strong>4. 记录</strong> </p>
+<p>关闭 Membrane Test，选择设定好的电压钳 Protocol，开始记录细胞离子通道电流、自发放电活动等。 </p>
+<p>注： </p>
+<p>（1）如果记录的基线不在零，可选 Output Zero，用 Auto 对基线归零。 </p>
+<p>（2）如果单通道的电流幅度较小，可通过增大 Gain 来获得满意的窗口显示。 </p>
+<p>（3）如果噪声过大，可降低滤波频率。 </p>
+<p>（4）若要进行电流钳记录，则可不必对膜电容和串联电阻进行补偿，而需要： </p>
+<p>l 在 Commander 软件面板 Mode 中更改 VC 为 I&#x3D;0 模式。 </p>
+<p>l 在 Clampex 软件中选择设定好的电流钳的 Protocol。 </p>
+<p>l 将 I&#x3D;0 模式更改为 IC 模式。 </p>
+<p>l 在 I-Clamp 表单中，选上 Tuning，对 Inject slow current to maintain potential at 进行设置，执行 Pipette Capacitance Neutralization 和 Bridge Balance。 </p>
+<p>l 此时可开始记录细胞的自发放电活动、动作电位、膜电位变化等信号。</p>
+]]></content>
+  </entry>
+</search>
